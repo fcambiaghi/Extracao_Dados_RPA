@@ -29,27 +29,27 @@ soup = BeautifulSoup(html, 'html.parser')
 #with open("cursos/direito.html", "w", encoding="utf-8") as f:
 #    f.write(soup.prettify())
 
+nome_curso = soup.select_one('div.fonte-destaque').get_text(strip=True)
+titulos = soup.select('div.fonte-titulo-3')
+print(titulos)
+ctd_titulos = soup.select('itemPesquisa')
+print(ctd_titulos)
 
 produtos = []
-
-# Cada card tem: <div class="produto"> ... <h2>Nome</h2> <span class="preco">R$</span> ...</div>
-cards = soup.select('div.fonte-titulo-3')
-
-print(cards)
-
-for card in cards:
-    nome = card.get_text(strip=True)
-    texto = card.select_one('itemPesquisa').get_text(strip=True)
+titulos = soup.select('div.fonte-titulo-3')
+for titulo in titulos:
+    nome = titulo.get_text(strip=True)
+    #texto = titulo.select_one('itemPesquisa').get_text(strip=True)
     #link = card.find('a')['href'] if card.find('a') else None
     produtos.append({
-        'nome': "## " + nome,
-        'texto': texto
+        'titulo': "## " + nome
+#        'texto': texto
     })
 
 with open("cursos/direito.md", "w", encoding="utf-8") as f:
     for prod in produtos:
-        f.write(prod['nome'] + "\n")
-        f.write(prod['texto'] + "\n\n")
+        f.write(prod['titulo'] + "\n")
+ #       f.write(prod['texto'] + "\n\n")
 
 
 driver.quit()
