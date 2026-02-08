@@ -59,73 +59,62 @@ A Revista Eletrônica de Pesquisa da UNIRP - Universitas (online), é mais um
 
 ## Matriz Curricular
 1º Período
+- Fundamentos de IA
 - Fundamentos Matemáticos
-- Gestão de Inovação com IA
 - IA e Sociedade
 - Pensamento Computacional
-- SmartTech: Fundamentos em IA
+- Programação para IA I
 - Softskills
 2º Período
-- Bases Lógico-Discretas para IA
+- Bases Lógico - Discretas
 - Cálculo
 - Inglês
-- Programação para IA I
-- Transformação Digital
-3º Período
-- Álgebra Linear
-- Estrutura de Dados
-- Gestão de Projetos em IA
-- IA Simbólica
-- Probabilidade e Estatística Aplicada à IA
+- Introdução à Ciência de Dados
 - Programação para IA II
-4º Período
-- Banco de Dados e Big Data
-- Ciência de Dados
-- Engenharia de Software para IA
-- Neural Networks
+3º Período
+- Banco de Dados
+- Estrutura de Dados
+- Geometria Analítica e Álgebra Linear
+- Gestão de Projetos em IA
+- Probabilidade e Estatística
 - Projeto Integrador Extensionista I
-- Supervised Machine Learning
+4º Período
+- Engenharia de Software para IA
+- Processamento Digital de Sinais
+- Projeto Integrado Extensionista II
+- Redes de Computadores
+- Redes Neurais
 5º Período
-- Cloud AI
-- Deep Learning
+- Análise Visual de Dados
+- Aprendizado não Supervisionado
+- Aprendizado Supervisionado
 - Gestão de Riscos e Conformidade em Sistemas de IA
 - Mineração de Dados
-- Projeto Integrador Extensionista II
-- Redes de Computadores
-- Unsupervised Machine Learning
+- Projeto Integrado Extensionista III
 6º Período
-- Internet das Coisas (IoT)
-- MLOps para IA
+- Aprendizado por Reforço
+- Percepção e Robótica
 - Processamento de Linguagem Natural
 - Projeto de IA Aplicada I
-- Projeto Integrador Extensionista III
-- Reinforcement Learning
-- Visual Data Analysis
+- Projeto Integrado Extensionista IV
+- Visão Computacional
 7º Período
-- Desenvolvimento de Sistemas Inteligentes I (Front-end)
-- Dispositivos Móveis
+- Computação de Alto Desempenho
+- Desenv. Sistemas Inteligentes (Backend e Deploy)
 - Fábrica de Projetos Ágeis
+- Gestão de Inovação com IA
+- IA  na Nuvem
 - IA Generativa e Modelos de Linguagem (LLM)
-- Percepção e Robótica
-- Pesquisa e Inovação I (TCC)
-- Projeto de IA Aplicada II
-- Projeto Integrador Extensionista IV
+- Trabalho de Conclusão de Curso I
 8º Período
-- Desenvolvimento de Sistemas Inteligentes II (Micro-serviços e Deploy)
-- Pesquisa e Inovação II (TCC)
-- Projeto de IA Aplicada III
+- IA Generativa e Modelos de Linguagem (LLM II )
+- MLOps
 - Regulação, Compliance e Ética em Soluções de IA
 - Tópicos Emergentes em IA
-- Visão Computacional
+- Trabalho de Conclusão de Curso II
 - DISCIPLINAS OPTATIVAS80h
 Optativas
-- Banco de Dados Não Convencionais40h
-- Computação Evolucionária40h
-- Computação Vestível40h
-- Gestão Estratégica de Regras com IA40h
-- IA Explicável (XAI)40h
-- Libras e Educação Especial e Inclusiva40h
-- Projeto de Sistemas Distribuídos40h
-- Segurança e Privacidade de Dados40h
-- Sistemas de Recomendação40h
-- Sistemas Operacionais e Computação de Alto Desempenho40h
+- Big Data80h
+- Engenharia de Dados para IA80h
+- Língua Brasileira de Sinais80h
+- Tecnologias Low e no-Code80h
