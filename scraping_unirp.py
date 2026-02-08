@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = 'https://unirp.edu.br/Curso/1/2'  # substitua pelo site alvo
-response = requests.get(url, timeout=10)  # header, proxies podem ser adicionados se necessário
+url = 'https://unirp.edu.br/Curso/1/2' 
+response = requests.get(url, timeout=10)
 
 if response.status_code == 200:
     conteudo_texto = ''
